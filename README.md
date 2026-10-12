@@ -71,7 +71,7 @@ Prerequisites
 
 1. Clone the repository
 
-git clone https://github.com/YOUR-USERNAME/sms-spam-detection.git
+git clone https://github.com/abhishek-Cee/sms-spam-detection.git
 
 Replace "YOUR-USERNAME" with your GitHub username.
 
